@@ -97,8 +97,6 @@ Curious backend and infrastructure developer who thrives on solving real-world s
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsam110g\&layout=compact\&theme=radical)
 
-![Contributions](https://komarev.com/ghpvc/?username=codewithsam110g\&label=Profile%20views\&color=0e75b6\&style=flat)
-
 ---
 
 ## Frameworks & Tech
